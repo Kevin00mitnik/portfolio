@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url><loc>https://mdarifpallath.in/</loc><image:image><image:loc>https://mdarifpallath.in/assets/arif-cybersecurity-work.webp</image:loc><image:title>Mohammed Arif P at a cybersecurity workstation</image:title></image:image><image:image><image:loc>https://mdarifpallath.in/assets/whitefox-infosec-logo.webp</image:loc><image:title>WhiteFox InfoSec logo</image:title></image:image></url>
+  <url><loc>https://mdarifpallath.in/about.html</loc><image:image><image:loc>https://mdarifpallath.in/assets/arif-at-work.webp</image:loc><image:title>Mohammed Arif P at work</image:title></image:image></url>
+  <url><loc>https://mdarifpallath.in/projects.html</loc></url>
+  <url><loc>https://mdarifpallath.in/publications.html</loc></url>
+</urlset>
